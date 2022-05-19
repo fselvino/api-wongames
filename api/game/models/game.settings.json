@@ -1,9 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "categories",
+  "collectionName": "games",
   "info": {
-    "name": "category",
-    "description": ""
+    "name": "game"
   },
   "options": {
     "increments": true,
